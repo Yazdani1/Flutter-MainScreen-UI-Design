@@ -1,16 +1,6 @@
-# flutter_materialapp_ui
+# Flutter-MainScreen-UI-Design
 
-A new Flutter application.
+![uiassss](https://user-images.githubusercontent.com/20543298/57133721-85a9e680-6dc5-11e9-86e2-db7d27807827.PNG)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
