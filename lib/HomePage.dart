@@ -133,7 +133,6 @@ class _HomeState extends State<Home> {
         child: new Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-
             new Icon(Icons.update,size: 50.0,color: Colors.white,),
             new Text(num1,style: TextStyle(fontSize: 22.0,color: Colors.white),),
             Padding(
