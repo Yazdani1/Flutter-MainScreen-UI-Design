@@ -13,7 +13,6 @@ class _HomeState extends State<Home> {
 
       body: new ListView(
         children: <Widget>[
-
           new Container(
             height: 50.0,
             margin: EdgeInsets.all(10.0),
