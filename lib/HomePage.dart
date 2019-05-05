@@ -59,7 +59,6 @@ class _HomeState extends State<Home> {
           ),//end first container..
 
           //second container start
-
           new Container(
             margin: EdgeInsets.all(10.0),
             child: new Column(
