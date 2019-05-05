@@ -51,7 +51,6 @@ class _HomeState extends State<Home> {
                         borderRadius: new BorderRadius.circular(15),
                         child: new Text("2",style: TextStyle(color: Colors.white),),
                       ),
-
                     )
                   ],
                 )
