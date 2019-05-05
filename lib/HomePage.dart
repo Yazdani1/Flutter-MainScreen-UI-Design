@@ -68,7 +68,6 @@ class _HomeState extends State<Home> {
             margin: EdgeInsets.all(10.0),
             child: new Column(
               children: <Widget>[
-
                 new Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
@@ -143,7 +142,6 @@ class _HomeState extends State<Home> {
               padding: const EdgeInsets.all(5.0),
               child: new Text(num3,style: TextStyle(fontSize: 16.0,color: Colors.white),),
             )
-
           ],
         ),
       ),
