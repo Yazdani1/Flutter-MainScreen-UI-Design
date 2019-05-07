@@ -9,9 +9,6 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return new Scaffold(
       backgroundColor: Color(0xFF392850),
-
-
-      
       body: new ListView(
         children: <Widget>[
           new Container(
