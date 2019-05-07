@@ -10,6 +10,8 @@ class _HomeState extends State<Home> {
     return new Scaffold(
       backgroundColor: Color(0xFF392850),
 
+
+      
       body: new ListView(
         children: <Widget>[
           new Container(
