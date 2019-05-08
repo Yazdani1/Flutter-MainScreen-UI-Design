@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+
+
 class Home extends StatefulWidget {
   @override
   _HomeState createState() => new _HomeState();
@@ -110,7 +112,7 @@ class _HomeState extends State<Home> {
       ),
     );
   }
-  
+
   Widget allData(String num1,String num2,String num3){
     return Card(
       elevation: 10.0,
