@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-
-
 class Home extends StatefulWidget {
   @override
   _HomeState createState() => new _HomeState();
