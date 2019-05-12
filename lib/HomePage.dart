@@ -34,10 +34,9 @@ class _HomeState extends State<Home> {
                   ),
                 ),
 
-                
+
                 new Stack(
                   children: <Widget>[
-
                     new Container(
                       height: 40.0,
                       width: 40.0,
